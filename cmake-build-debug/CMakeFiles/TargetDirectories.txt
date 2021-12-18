@@ -1,0 +1,3 @@
+C:/Users/fokus/CLionProjects/graph/cmake-build-debug/CMakeFiles/graph.dir
+C:/Users/fokus/CLionProjects/graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fokus/CLionProjects/graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,138 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Sequence/ArraySequence.h
+Sequence.h
+../Sequence/Sequence.h
+LinkedList.h
+../Sequence/LinkedList.h
+
+../Sequence/DynamicArray.h
+stdexcept
+-
+
+../Sequence/LinkedList.h
+iterator
+-
+DynamicArray.h
+../Sequence/DynamicArray.h
+
+../Sequence/ListSequence.h
+ArraySequence.h
+../Sequence/ArraySequence.h
+LinkedList.h
+../Sequence/LinkedList.h
+
+../Sequence/Sequence.h
+
+C:/Program Files/Graphviz/include/graphviz/arith.h
+limits.h
+-
+math.h
+-
+
+C:/Program Files/Graphviz/include/graphviz/cdt.h
+stddef.h
+-
+string.h
+-
+
+C:/Program Files/Graphviz/include/graphviz/cgraph.h
+inttypes.h
+-
+cdt.h
+C:/Program Files/Graphviz/include/graphviz/cdt.h
+
+C:/Program Files/Graphviz/include/graphviz/geom.h
+arith.h
+C:/Program Files/Graphviz/include/graphviz/arith.h
+
+C:/Program Files/Graphviz/include/graphviz/gvc.h
+stdbool.h
+-
+types.h
+C:/Program Files/Graphviz/include/graphviz/types.h
+gvplugin.h
+C:/Program Files/Graphviz/include/graphviz/gvplugin.h
+
+C:/Program Files/Graphviz/include/graphviz/gvcext.h
+
+C:/Program Files/Graphviz/include/graphviz/gvplugin.h
+gvcext.h
+C:/Program Files/Graphviz/include/graphviz/gvcext.h
+
+C:/Program Files/Graphviz/include/graphviz/pathgeom.h
+
+C:/Program Files/Graphviz/include/graphviz/textspan.h
+
+C:/Program Files/Graphviz/include/graphviz/types.h
+stdio.h
+-
+assert.h
+-
+signal.h
+-
+geom.h
+C:/Program Files/Graphviz/include/graphviz/geom.h
+gvcext.h
+C:/Program Files/Graphviz/include/graphviz/gvcext.h
+pathgeom.h
+C:/Program Files/Graphviz/include/graphviz/pathgeom.h
+textspan.h
+C:/Program Files/Graphviz/include/graphviz/textspan.h
+cgraph.h
+C:/Program Files/Graphviz/include/graphviz/cgraph.h
+usershape.h
+C:/Program Files/Graphviz/include/graphviz/usershape.h
+
+C:/Program Files/Graphviz/include/graphviz/usershape.h
+cdt.h
+C:/Program Files/Graphviz/include/graphviz/cdt.h
+
+C:/Users/fokus/CLionProjects/graph/Graph.h
+ListSequence.h
+C:/Users/fokus/CLionProjects/graph/ListSequence.h
+vector
+C:/Users/fokus/CLionProjects/graph/vector
+
+C:/Users/fokus/CLionProjects/graph/ISorter.h
+ListSequence.h
+C:/Users/fokus/CLionProjects/graph/ListSequence.h
+
+C:/Users/fokus/CLionProjects/graph/UndirectedGraph.h
+ListSequence.h
+C:/Users/fokus/CLionProjects/graph/ListSequence.h
+vector
+C:/Users/fokus/CLionProjects/graph/vector
+random
+C:/Users/fokus/CLionProjects/graph/random
+ctime
+C:/Users/fokus/CLionProjects/graph/ctime
+ISorter.h
+C:/Users/fokus/CLionProjects/graph/ISorter.h
+
+C:/Users/fokus/CLionProjects/graph/main.cpp
+iostream
+-
+Graph.h
+C:/Users/fokus/CLionProjects/graph/Graph.h
+fstream
+-
+gvc.h
+C:/Users/fokus/CLionProjects/graph/gvc.h
+UndirectedGraph.h
+C:/Users/fokus/CLionProjects/graph/UndirectedGraph.h
+ISorter.h
+C:/Users/fokus/CLionProjects/graph/ISorter.h
+random
+C:/Users/fokus/CLionProjects/graph/random
+ctime
+-
+windows.h
+-
+
